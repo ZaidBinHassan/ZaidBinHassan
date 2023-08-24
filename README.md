@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ZaidBinHassan
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Android Development using Java.
-- 💞️ I’m looking to collaborate on Android related projects.
+- 👋 Hi, I’m @ZaidBinHassan.
+- 🌱 I’m currently learning DSA using Java.
 - 📫 How to reach me bhatzaid595@gmail.com.
 
 <!---
